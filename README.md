@@ -1,2 +1,2 @@
 # odin
-Odin project curriculum exercises
+Odin Project curriculum exercises
